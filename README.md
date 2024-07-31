@@ -1,9 +1,8 @@
 ## Hi there 👋
 
 <!-- Header -->
-
-![Waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hello World!!&fontAlign=40&fontAlignY=40&color=gradient)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Hello World!!_flat=false)](https://hits.seeyoufarm.com)
+![Waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hello%World%&fontAlign=40&fontAlignY=40&color=gradient)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=_flat=false)](https://hits.seeyoufarm.com)
 
 ### 🙇 안녕하세요, 백앤드 개발자로 성장해나가고 있는 김규년입니다!
 
